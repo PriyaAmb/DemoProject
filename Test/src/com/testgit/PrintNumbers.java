@@ -7,7 +7,7 @@ public class PrintNumbers {
 			
 			System.out.println(i);
 		}
-			System.out.println("Nos are printed");
+			System.out.println("Nos are printed after for loop");
 	}
 
 }
