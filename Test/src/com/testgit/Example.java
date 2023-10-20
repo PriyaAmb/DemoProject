@@ -6,7 +6,7 @@ public class Example {
 
 		System.out.println("New Class 'Example' is Created");
 		System.out.println("Added a new code to feature branch");
-
+		System.out.println("Added  for eclipse check");
 	}
 
 }
